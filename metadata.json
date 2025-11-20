@@ -1,0 +1,7 @@
+{
+  "name": "LectureLogic",
+  "description": "Record your classes and instantly generate comprehensive, AI-powered notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
